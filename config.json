@@ -1,8 +1,8 @@
 {
   "database": {
-    "host": "mugeselenpostgres1.postgres.database.azure.com",
+    "host": "mugeselenpostgres2.postgres.database.azure.com",
     "dbname": "postgres",
-    "username": "MugeSelen@MugeSelenPostgres1",
+    "username": "MugeSelen",
     "password": "Mgsln9599.",
     "ssl": "require"
   }
